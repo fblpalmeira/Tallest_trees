@@ -2,7 +2,7 @@
 
 # Day 2 (2 April 2022) - Pictogram Chart
 
-A pictogram of three tallest trees (above 100 meters) in the world. Souce: [Wikipedia](https://en.wikipedia.org/wiki/List_of_tallest_trees).
+A pictogram of the top three tallest trees (above 100 meters) in the world. Souce: [Wikipedia](https://en.wikipedia.org/wiki/List_of_tallest_trees).
 
 - [Script `.R`](https://github.com/fblpalmeira/Tallest_trees/blob/main/30dayschallenge_day2.R)
 
