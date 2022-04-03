@@ -1,5 +1,3 @@
-# Tallest_trees
-
 # #30DayChartChallenge_2022
 
 # Day 2 (2 April 2022) - Pictogram Chart
