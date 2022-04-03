@@ -1,4 +1,5 @@
 library(tidyverse)
+library(echarts4r)
 
 Sequoia <- "https://i.pinimg.com/564x/23/8a/cd/238acdd6e1be0e1b0134117828b7da8e.jpg"
 Cristo <- "https://i.pinimg.com/564x/e6/56/28/e65628eb42a6e16416cd5497c7bc4f96.jpg"
